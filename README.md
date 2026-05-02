@@ -10,7 +10,7 @@ A FastAPI backend API for workout logging, featuring JWT authentication, Postgre
 Users can manage workouts and exercise logs with ownership-based access control.
 **Tech:** Python · FastAPI · PostgreSQL · SQLModel · Alembic · JWT · Docker · pytest
 
-
+<br>
 
 [**Motivational Coach**](https://github.com/shinchuanchenne/motivational_coach)
 
@@ -24,21 +24,24 @@ It uses two contrasting GPT-4 coaching styles: a supportive “Good Cop” and a
 ## Tech Stack
 
 **Backend**  
-Python · FastAPI · Flask · RESTful APIs · LLM Integration
-Java
-C
+- Python · FastAPI · Flask · RESTful APIs · LLM Integration
+- Java
+- C
 
 **Database**  
-PostgreSQL · MySQL · SQLite · SQLModel · Alembic
+- PostgreSQL · MySQL · SQLite · SQLModel · Alembic
 
 **Frontend**  
-HTML · CSS · JavaScript
+- HTML · CSS · JavaScript
 
 **Tools & Deployment**  
-Git · GitHub · Docker · AWS · Railway
+- Git · GitHub
+- Docker
+- AWS
 
 **Testing & Workflow**  
-pytest · GitHub Actions · Agile · Scrum · Jira · Trello · Notion
+- pytest · GitHub Actions
+- Agile · Scrum · Jira · Trello · Notion
 
 ---
 
