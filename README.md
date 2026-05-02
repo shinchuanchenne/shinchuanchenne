@@ -46,6 +46,13 @@ pytest · GitHub Actions · Agile · Scrum · Jira · Trello · Notion
 
 **Email:** [chenneshinchuan@gmail.com](mailto:chenneshinchuan@gmail.com)
 
+---
+## 📊 GitHub Stats
+
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinchuanchenne&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shinchuanchenne&layout=compact)
+
 <!--
 **shinchuanchenne/shinchuanchenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
