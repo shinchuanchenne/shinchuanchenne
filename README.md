@@ -6,16 +6,17 @@ I am a backend-focused software engineer with a background in business operation
 
 [**Gym Logger**](https://github.com/shinchuanchenne/gym-logger)
 
-A FastAPI backend API for workout logging, featuring JWT authentication, PostgreSQL, Docker, Alembic migrations, and pytest-based API testing.  
-Users can manage workouts and exercise logs with ownership-based access control.
+A FastAPI backend API for workout logging, built with JWT authentication, PostgreSQL, Docker, Alembic migrations, and pytest-based API testing.
+Users can create, manage, and review workout and exercise logs with ownership-based access control.
+
 **Tech:** Python · FastAPI · PostgreSQL · SQLModel · Alembic · JWT · Docker · pytest
 
 <br>
 
 [**Motivational Coach**](https://github.com/shinchuanchenne/motivational_coach)
 
-An AI-powered habit-building web app that helps users set goals, complete daily check-ins, and receive personalised coaching responses.  
-It uses two contrasting GPT-4 coaching styles: a supportive “Good Cop” and a stricter “Bad Cop”.
+An AI-powered habit-building web app that helps users set goals, complete daily check-ins, and receive personalised coaching responses.
+The app integrates GPT-4 through the OpenAI API and provides two contrasting coaching styles: a supportive “Good Cop” and a stricter “Bad Cop”.
 
 **Tech:** Python · Flask · PostgreSQL · SQLite · OpenAI API · GPT-4 · HTML · CSS · JavaScript
 
